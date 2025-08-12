@@ -1,0 +1,9 @@
+source:
+  github:
+    - user: id-Software
+      include:
+        - DOOM-3
+  destination:
+    local:
+      - path: /disks/d00/repositories/github.com
+        structured: true
