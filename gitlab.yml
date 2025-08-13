@@ -1,0 +1,11 @@
+source:
+  gitlab:
+    - url: gitlab.freedesktop.org
+      user: mesa
+      include:
+        - mesa
+
+destination:
+  local:
+    - path: /disks/d00/repositories
+      structured: true
