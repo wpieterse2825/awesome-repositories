@@ -1,5 +1,11 @@
 source:
   github:
+    - user: EpicGames
+      ssh: true
+      include:
+        - UnrealEngine
+        - UnrealTournament
+        - zen
     - user: tianocore
       include:
         - edk2
