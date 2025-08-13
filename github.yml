@@ -1,5 +1,9 @@
 source:
   github:
+    - user: tianocore
+      include:
+        - edk2
+        - edk2-platforms
     - user: id-Software
       include:
         - DOOM
