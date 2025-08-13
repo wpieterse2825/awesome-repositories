@@ -3,6 +3,21 @@ source:
     - user: id-Software
       include:
         - DOOM
+        - DOOM-iOS
+        - DOOM-IOS2
+        - DOOM-3
+        - DOOM-3-BFG
+        - Enemy-Territory
+        - idsetup
+        - Quake
+        - Quake-Tools
+        - Quake-2
+        - Quake-2-Tools
+        - Quake-III-Arena
+        - RTCW-SP
+        - RTCW-MP
+        - wolf3d
+        - Wolf3D-iOS
 
 destination:
   local:
